@@ -2,7 +2,7 @@
 import * as demoCode from '@/views/demos/forms/form-wizard/form-wizard-numbered/demoCodeFormWizardNumbered'
 import DemoFormWizardNumberedModernBasic from '@/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberdModernBasic.vue'
 import DemoFormWizardNumberedBasic from '@/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedBasic.vue'
-import DemoFormWizardNumberedModernVertical from '@/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedModernVertical.vue'
+import DemoFormWizardNumberedModernVertical from '@/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedModernVert.vue'
 import DemoFormWizardNumberedValidation from '@/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedValidation.vue'
 import DemoFormWizardNumberedVertical from '@/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedVertical.vue'
 </script>

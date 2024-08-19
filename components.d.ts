@@ -195,7 +195,7 @@ declare module 'vue' {
     DemoFormWizardIconsVertical: typeof import('./src/views/demos/forms/form-wizard/form-wizard-icons/DemoFormWizardIconsVertical.vue')['default']
     DemoFormWizardNumberdModernBasic: typeof import('./src/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberdModernBasic.vue')['default']
     DemoFormWizardNumberedBasic: typeof import('./src/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedBasic.vue')['default']
-    DemoFormWizardNumberedModernVertical: typeof import('./src/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedModernVertical.vue')['default']
+    DemoFormWizardNumberedModernVertical: typeof import('./src/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedModernVert.vue')['default']
     DemoFormWizardNumberedValidation: typeof import('./src/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedValidation.vue')['default']
     DemoFormWizardNumberedVertical: typeof import('./src/views/demos/forms/form-wizard/form-wizard-numbered/DemoFormWizardNumberedVertical.vue')['default']
     DemoListActionAndItemGroup: typeof import('./src/views/demos/components/list/DemoListActionAndItemGroup.vue')['default']
